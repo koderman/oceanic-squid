@@ -12,8 +12,8 @@ params:
     has_nav: true
     has_social: true
     profile_img: images/avatar.png
-    tagline: Header Tagline
-    title: Stackbit Fresh
+    tagline: All from the heart
+    title: Harish's Thoughts
   layout_style: overflow
   palette: blue
 disableKinds:
